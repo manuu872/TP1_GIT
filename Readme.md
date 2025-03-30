@@ -4,3 +4,4 @@
 
 - Manuel Jimenez
 - Guido Gariboldi
+- [Script de prueba](script.js)
